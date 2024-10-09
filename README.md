@@ -13,6 +13,9 @@ This is a terminal-based implementation of the classic Battleship game written i
 
 ## Clone the Repository
   `git clone https://github.com/dariiahacker1/Battleship-in-C.git
+`
+
+`
    cd Battleship-in-C
 `
 ## Compile the Game
