@@ -25,3 +25,10 @@ gcc -o battleship game.c -lncurses
 `
 ./battleship
 `
+## Screenshots
+
+
+<img width="1410" alt="image" src="https://github.com/user-attachments/assets/3c710eb5-39a3-48ef-8c43-03b96a8e85d3">
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/82abec9d-84f7-4334-a1e5-a75ef2df15b2">
+
+
