@@ -31,8 +31,9 @@ gcc -o battleship game.c -lncurses
 <img width="1410" alt="image" src="https://github.com/user-attachments/assets/3c710eb5-39a3-48ef-8c43-03b96a8e85d3">
 <img width="943" alt="image" src="https://github.com/user-attachments/assets/577c7242-21aa-4890-b5ae-63ff00f77b1e">
 <img width="1329" alt="image" src="https://github.com/user-attachments/assets/f5b2d2d6-2963-4843-b965-9cdfca2af31f">
-![image](https://github.com/user-attachments/assets/4c474564-32da-4e84-a3bc-db2d39ce2df8)
-![image](https://github.com/user-attachments/assets/4d041ec4-bde2-41fd-9582-b33b1807e56c)
+<img width="1207" alt="image" src="https://github.com/user-attachments/assets/aed134d7-83dc-4093-9982-17f2b5d5e372">
+<img width="1220" alt="image" src="https://github.com/user-attachments/assets/ce645476-7df7-4363-8455-c176153772ec">
+
 
 
 
