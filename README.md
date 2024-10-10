@@ -6,7 +6,7 @@ This is a terminal-based implementation of the classic Battleship game written i
 ## Features
 
 
-- Single-player mode against an AI bot
+- Single-player mode against bot
 - Text-based UI using the ncurses library
 - Randomized ship placements for bot
 - Additional artillery for enhanced gameplay
